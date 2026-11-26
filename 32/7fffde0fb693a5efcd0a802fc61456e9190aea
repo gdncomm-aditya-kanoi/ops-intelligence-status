@@ -1,0 +1,19 @@
+index.html
+  s_b7182701225dba::t_dd780af351aef8 36,39,43,45-46,62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "327fffde0fb693a5efcd0a802fc61456e9190aea",
+  "prompts": {},
+  "sessions": {
+    "s_b7182701225dba": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_b7182701225dba",
+        "model": "unknown"
+      },
+      "human_author": "Aditya Kanoi <aditya.kanoi@gdn-commerce.com>"
+    }
+  }
+}
