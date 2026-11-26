@@ -1,0 +1,21 @@
+README.md
+  s_6ddc31f3c255c3::t_99e596696847c0 1-3
+index.html
+  s_6ddc31f3c255c3::t_839327d59c4e6a 1-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "bcd9e2e9e0fbfe64b7142f9528232c3a9af01e35",
+  "prompts": {},
+  "sessions": {
+    "s_6ddc31f3c255c3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "55973795-1282-4468-bf89-fbe7ba8cdf01",
+        "model": "unknown"
+      },
+      "human_author": "Aditya Kanoi <aditya.kanoi@gdn-commerce.com>"
+    }
+  }
+}
