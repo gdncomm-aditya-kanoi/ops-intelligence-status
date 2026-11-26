@@ -1,16 +1,30 @@
 {
- "camera_online": false,
+ "camera_online": true,
  "kpi": {
-  "present": 0,
+  "present": 1,
   "removed": 0,
   "moved": 0,
   "damaged": 0
  },
- "counts": {},
+ "counts": {
+  "card game box": 1
+ },
  "totals": {
-  "in": {},
+  "in": {
+   "card game box": 1
+  },
   "out": {}
  },
- "recent": [],
- "updated_at": "2026-11-26T08:49:17+00:00"
+ "recent": [
+  {
+   "name": "card game box #1",
+   "label": "card game box",
+   "kind": "product",
+   "status": "PRESENT",
+   "condition": "Proper",
+   "text": [],
+   "seen": "14:19:52"
+  }
+ ],
+ "updated_at": "2026-11-26T08:49:52+00:00"
 }
