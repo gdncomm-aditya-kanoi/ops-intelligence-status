@@ -1,0 +1,19 @@
+status.json
+  s_6ddc31f3c255c3::t_3ac1ef7d5c4b7b 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "809bc81892c1d5299844024ba3b205be1e1bb43a",
+  "prompts": {},
+  "sessions": {
+    "s_6ddc31f3c255c3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "55973795-1282-4468-bf89-fbe7ba8cdf01",
+        "model": "unknown"
+      },
+      "human_author": "Aditya Kanoi <aditya.kanoi@gdn-commerce.com>"
+    }
+  }
+}
